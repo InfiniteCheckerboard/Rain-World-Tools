@@ -1,0 +1,17 @@
+/*
+ * Rules for every page of app
+ */
+
+.center-content-horiz {
+	display: flex;
+	justify-content: center;
+}
+
+.center-content-vert {
+	display: flex;
+	align-items: center;
+}
+
+.column {
+	
+}
