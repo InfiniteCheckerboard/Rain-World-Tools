@@ -1,7 +1,3 @@
-/*
- * Rules for every page of app
- */
-
 .center-content-horiz {
 	display: flex;
 	justify-content: center;
@@ -12,6 +8,8 @@
 	align-items: center;
 }
 
-.column {
-	
+.center-content-hv {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
