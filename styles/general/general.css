@@ -1,0 +1,24 @@
+@font-face {
+	font-family: Rodondo;
+	src: url("/assets/fonts/Rodondo.otf");
+}
+
+.center-hv {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.fill-page {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+
+iframe.seamless {
+	
+}
